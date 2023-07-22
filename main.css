@@ -63,6 +63,42 @@ li a:hover {
     border-color: gold;
 }
 
+.formTitle{
+    color:white;
+}
+.t2, .t3, .t4{
+    border-style: solid;
+    border-color: gold;
+}
+
+input[type=text]{
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+display: inline-block;
+border-radius: 4px;
+box-sizing: border-box;
+}
+input[type=submit]{
+    width: 75%;
+    background-color: gold;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+input[type=submit]:hover{
+background-color: goldenrod;
+}
+
+.form{
+    border-radius: 5px;
+    padding: 20px;
+    border-color: gold;
+}
+
 body{
     display: grid;
 }
