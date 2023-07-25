@@ -99,8 +99,12 @@ background-color: goldenrod;
     border-color: gold;
 }
 
+.card{
+    background-color: black;
+}
 body{
     display: grid;
+    background-color: black;
 }
 
 h2{
@@ -113,6 +117,7 @@ a{
 
 footer{
     border-style: solid;
+    background-color: black;
     border-color: gold;
 }
 p{
