@@ -102,6 +102,28 @@ background-color: goldenrod;
 .card{
     background-color: black;
 }
+.card-title{
+    color: gold;
+}
+.card-text{
+    color: white;
+}
+.card-btext{
+    color: gold;
+}
+
+.accordion-item{
+    background-color: black;
+}
+.accordion-header{
+    background-color: gold;
+}
+.accordion-button{
+    background-color: gold;
+}
+.accordion-body{
+    color: white;
+}
 body{
     display: grid;
     background-color: black;
