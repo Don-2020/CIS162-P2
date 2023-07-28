@@ -18,6 +18,10 @@ html{
     font-size: 30px;
 }
 
+h3{
+    color: gold;
+}
+
 .item1 {
     border-style: solid;
     border-color: gold;
@@ -82,7 +86,7 @@ box-sizing: border-box;
 input[type=submit]{
     width: 75%;
     background-color: gold;
-    color: white;
+    color: rgb(8, 3, 3);
     padding: 14px 20px;
     margin: 8px 0;
     border: none;
